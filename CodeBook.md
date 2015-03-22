@@ -4,7 +4,6 @@ Course Project for Getting and Cleaning Data
 #Variables
 
 "Subject"
-
 Subject number (from 1-30)
 
 "Activity"

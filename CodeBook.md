@@ -4,9 +4,11 @@ Course Project for Getting and Cleaning Data
 #Variables
 
 "Subject"
+
 Subject number (from 1-30)
 
 "Activity"
+
 The activity performed by the subject during the recording of the data. The six considered activities were:
 
 1 WALKING

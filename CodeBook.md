@@ -11,7 +11,7 @@ Subject number (from 1-30)
 
 The activity performed by the subject during the recording of the data. The six considered activities were:
 
-1 WALKING
+1 WALKING 
 2 WALKING_UPSTAIRS
 3 WALKING_DOWNSTAIRS
 4 SITTING
